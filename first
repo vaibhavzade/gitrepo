@@ -1,2 +1,6 @@
 my first line 
+<<<<<<< HEAD
 my new changes
+=======
+my second line
+>>>>>>> a9f78631720988a6f0200c0465123ace0f0a449e
